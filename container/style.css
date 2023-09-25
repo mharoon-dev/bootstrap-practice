@@ -1,0 +1,74 @@
+.container {
+    border: 4px solid black;
+}
+.container-fluid {
+    border: 4px solid black;
+}
+
+.row {
+    border: 4px solid red;
+}
+ 
+.col, .col-lg, .col-xl-2, .col-lg-3, .col-md-4, .col-sm-6, .col-md, .col-sm {
+    border: 4px solid green;
+}
+
+
+
+/*///////////////////      parctice work      ///////////////////*/
+
+.topbar {
+    border: none !important;
+    background-color: orange;
+}
+.web-name {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.navbar {
+    border: none !important;
+    background-color: pink;
+    display: flex;
+    justify-content: center !important
+}
+
+.nav li {
+    list-style: none;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+}
+
+.paragraph{
+    background-color: white;
+    color: black;
+}
+.side-bar {
+    border: none !important;
+    background-color: lightskyblue;
+}
+.side-bar ul {
+    list-style: none;
+}
+.side-bar ul li {
+    list-style: none;
+    color: black;
+}
+
+.footer {
+    background-color: orange;
+    border: none !important;
+}
+
+.footer-text {
+    color: black;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: 500;
+}
+
+/*///////////////////      parctice work end      ///////////////////*/
