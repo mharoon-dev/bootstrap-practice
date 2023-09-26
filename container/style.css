@@ -9,7 +9,7 @@
     border: 4px solid red;
 }
  
-.col, .col-lg, .col-xl-2, .col-lg-3, .col-md-4, .col-sm-6, .col-md, .col-sm {
+.col, .col-lg, .col-xl-2, .col-lg-3, .col-md-4, .col-sm-6, .col-md, .col-sm,.order-xl-0, .order-lg-1, .order-md-0, .order-sm-1, .col-6 {
     border: 4px solid green;
 }
 
@@ -26,6 +26,7 @@
     font-family: sans-serif;
     font-weight: 700;
     font-size: xx-large;
+    background-color: orange;
 }
 
 .navbar {
