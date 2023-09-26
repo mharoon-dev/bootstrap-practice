@@ -20,12 +20,14 @@
 .topbar {
     border: none !important;
     background-color: orange;
+    border: none;
 }
 .web-name {
     color: black;
     font-family: sans-serif;
     font-weight: 700;
     font-size: xx-large;
+    border: none;
     background-color: orange;
 }
 
@@ -33,7 +35,8 @@
     border: none !important;
     background-color: pink;
     display: flex;
-    justify-content: center !important
+    border: none;
+    justify-content: center !important;
 }
 
 .nav li {
@@ -41,22 +44,32 @@
     color: black;
     font-family: sans-serif;
     font-weight: 700;
+    border: none;
     font-size: large;
+}
+
+.middle {
+    border: none;
 }
 
 .paragraph{
     background-color: white;
+    border: none !important;
     color: black;
 }
 .side-bar {
     border: none !important;
+    border: none;
     background-color: lightskyblue;
 }
 .side-bar ul {
+    border: none;
     list-style: none;
 }
 .side-bar ul li {
     list-style: none;
+    border: none;
+    border: none;
     color: black;
 }
 
@@ -70,6 +83,7 @@
     font-family: sans-serif;
     font-size: larger;
     font-weight: 500;
+    border: none;
 }
 
 /*///////////////////      parctice work end      ///////////////////*/
